@@ -1,5 +1,5 @@
 # PI-2022-2023
-### Repository for PI course at AGH University
+### Repository for PI (Imperative Programming) course at AGH University
 
 Repozytorium zawiera moje rozwiązania zadań z zestawów na zajęciach (katalogi **lab***i*, ```i = 0, 1, ... , 13```) oraz dodatkowy folder **kolokwia**, który zawiera rozwiązania zadań z wybranych kolosów zaliczeniowych / poprawkowych.
 Oczywiście rozwiązania zadań mogą zawierać błędy, nieuzupełnione sekcje itd., ale w większości powinny być uzupełnione, a przede wszystkim mam nadzieję, że są **przydatne**. Korzystajcie rozważnie!
